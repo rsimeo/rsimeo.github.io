@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Work Del Mar</title>
-	<atom:link href="http://rsimeo.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>http://rsimeo.github.io/</link>
+	<atom:link href="//rsimeo.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>//rsimeo.github.io/</link>
 	<description></description>
 	<lastBuildDate>Wed, 10 May 2023 11:08:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>http://rsimeo.github.io/wp-content/uploads/2023/05/WorkDelMar_Logo_Short.png</url>
+	<url>//rsimeo.github.io/wp-content/uploads/2023/05/WorkDelMar_Logo_Short.png</url>
 	<title>Work Del Mar</title>
-	<link>http://rsimeo.github.io/</link>
+	<link>//rsimeo.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
